@@ -9,6 +9,7 @@
   "author": "Collins Kariuki",
   "license": "ISC",
   "dependencies": {
+    "colors": "^1.4.0",
     "figlet": "^1.5.2"
   }
 }
